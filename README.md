@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Konain Baig</h1>
 <h3 align="center">A passionate frontend Web developer from Pakistan</h3>
 
-<img align="right" alt="coding" width="400" src="https://pin.it/6SxkjEZNP">
+<img align="right" alt="coding" width="400" src="P![data scientist](https://github.com/user-attachments/assets/866f5303-b926-43cc-8f95-4aa82b4662cc)
+">
 
 
 - 🌱 I’m currently learning **JavaScript.**
