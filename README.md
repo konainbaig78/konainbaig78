@@ -37,10 +37,8 @@
 <!-- - **[React Todo App](https://github.com/konainbaig78/react-todo-app):** A task management app built with React.js and Firebase. -->
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=konainbaig78&show_icons=true&locale=en&layout=compact" alt="Top Languages" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=konainbaig78&show_icons=true&locale=en" alt="GitHub Stats" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=konainbaig78" alt="Streak Stats" /></p>
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=konainbaig78&theme=dracula" alt="Activity Graph">
-</p>
+<p><a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=konainbaig78&theme=date-night&hide_border=true" alt="GitHub Streak" /></a></p>
+
 
 ---
 
